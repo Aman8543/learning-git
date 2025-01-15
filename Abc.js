@@ -10,3 +10,5 @@ const str="rama rama ratate";
 function update(){
     bal+=10;
 }
+
+console.log("hello brother")
