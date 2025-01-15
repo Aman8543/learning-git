@@ -20,3 +20,10 @@ function greet(){
 function meet(){
     console.log("we will meet tommorow")
 }
+
+function login_one(){
+    console.log("login_page added")
+}
+function login_two(){
+    console.log("login page updated")
+}
