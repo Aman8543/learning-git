@@ -16,3 +16,7 @@ console.log("hello brother")
 function greet(){
     console.log("hello world")
 }
+
+function meet(){
+    console.log("we will meet tommorow")
+}
