@@ -20,3 +20,7 @@ function greet(){
 function meet(){
     console.log("we will meet tommorow")
 }
+
+function login_one(){
+    console.log("login_page added")
+}
