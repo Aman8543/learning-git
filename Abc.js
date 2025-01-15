@@ -3,3 +3,5 @@ let bal=10;
 
 const name ="aman agrahri"
 const roll_no=20;
+
+console.log('galgotias')
