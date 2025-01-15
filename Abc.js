@@ -7,3 +7,6 @@ const roll_no=20;
 console.log('galgotias')
 
 const str="rama rama ratate";
+function update(){
+    bal+=10;
+}
