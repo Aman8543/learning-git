@@ -12,3 +12,7 @@ function update(){
 }
 
 console.log("hello brother")
+
+function greet(){
+    console.log("hello world")
+}
