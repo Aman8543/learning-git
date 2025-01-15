@@ -24,3 +24,6 @@ function meet(){
 function login_one(){
     console.log("login_page added")
 }
+function login_two(){
+    console.log("login page updated")
+}
